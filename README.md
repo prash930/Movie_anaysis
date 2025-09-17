@@ -12,7 +12,7 @@ This dashboard provides an **interactive visualization of IMDb movie data**, foc
 
 Breaks down data by actors, including **rank, votes, rating, and runtime**.
 
-![Actor Insights](images/Actor Insights.png)
+![Actor Insights](Actor_Insights.png)
 
 ---
 
