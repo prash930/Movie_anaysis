@@ -20,7 +20,7 @@ Breaks down data by actors, including **rank, votes, rating, and runtime**.
 
 Explores **trends by genre and year**, including **runtime and rating averages**.
 
-![Genre & Year Analysis](images/genre_year.png)
+![Genre & Year Analysis](genre_year.png)
 
 ---
 
@@ -28,7 +28,7 @@ Explores **trends by genre and year**, including **runtime and rating averages**
 
 Analyzes **metascore, votes, and movie count by director**.
 
-![Director Insights](images/director_insights.png)
+![Director Insights](director_insights.png)
 
 ---
 
