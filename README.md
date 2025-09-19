@@ -5,22 +5,21 @@
 This dashboard provides an **interactive visualization of IMDb movie data**, focusing on key metrics and trends. It helps users analyze **votes, ratings, revenue, runtime, genres, directors, and actors** across different years.
 
 ---
-
 ## 📊 Pages
+### 🎬 Genre & Year Analysis
+
+Explores **trends by genre and year**, including **runtime and rating averages**.
+
+![Genre & Year Analysis](Genre_&_Year_Analysis.png)
+
+
+---
 
 ### 🎭 Actor Insights
 
 Breaks down data by actors, including **rank, votes, rating, and runtime**.
 
 ![Actor Insights](Actor_Insights.png)
-
----
-
-### 🎬 Genre & Year Analysis
-
-Explores **trends by genre and year**, including **runtime and rating averages**.
-
-![Genre & Year Analysis](Genre_&_Year_Analysis.png)
 
 ---
 
